@@ -12,9 +12,7 @@ export default createGlobalStyle`
     font-size: 16px;
 
     @media (max-width: ${DEVICE_BREAKPOINTS.MD}) {
-      body {
        font-size: 12px;
-      }
     }
   }
 
